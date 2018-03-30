@@ -1,0 +1,8 @@
+﻿  Voice_Maker.cpp
+  main.cpp
+  CountOfLoad.cpp
+c:\users\maxip\documents\учеба\4 семестр\программирование\sound\sound\countofload.cpp(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\maxip\documents\учеба\4 семестр\программирование\sound\sound\countofload.cpp(154): warning C4018: '<': signed/unsigned mismatch
+  Contain_Sound.cpp
+  Generating Code...
+  Sound.vcxproj -> C:\Users\maxip\Documents\Учеба\4 семестр\Программирование\Sound\Debug\Sound.exe
