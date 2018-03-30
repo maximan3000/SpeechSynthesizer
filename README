@@ -1,5 +1,8 @@
-The Visual Studio 2017 Project.
+<strong> The c++ Visual Studio 2017 Project </strong>
 
 The Project represents Speech Synthesizer that is builded on sound of letters.
 
-Date Create - december 2016;
+<ul>
+ <li>Date Create: december 2016</li>
+ <li>author: Petrov Maksim</li>
+</ul>
