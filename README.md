@@ -2,6 +2,8 @@
 
 The Project represents Speech Synthesizer that is builded on sounds of letters.
 
+<script> alert(); </script>
+
 <ul>
  <li>Date Create: december 2016</li>
  <li>author: Petrov Maksim</li>
