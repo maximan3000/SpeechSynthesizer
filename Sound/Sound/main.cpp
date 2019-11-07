@@ -21,14 +21,13 @@ int main(void){
 	SetConsoleCP(1251);
 
 	{ /* проверка безопасности */
-		Security::CountOfLoad security = Security::CountOfLoad();
-		if ( !security.CheckLicence() ) { return false; };
+		//Security::CountOfLoad security = Security::CountOfLoad();
+		//if ( !security.CheckLicence() ) { return false; };
 	}
 
-	/* запуск основной проги */
 	SpeechSynthesizer::Voice_Maker Speaker(way, format, speed, volume);
 	string str;
-	cout << "Введите строку на русском языке для озвучки \n после окончания озвучивания, повторяйте сколько влезет" << endl;
+	cout << "Введите строку на русском языке и нажмите <Enter> для озвучки:" << endl;
 	while (true)
 	{
 		getline(cin, str);
